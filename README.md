@@ -1,4 +1,4 @@
-# Data-analyst-Excel-Assignments
+# Data-Analyst-Excel-Assignments
 
 Excelr Assignments - Excel
 
